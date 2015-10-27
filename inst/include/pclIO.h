@@ -5,6 +5,9 @@
 
 #include <RcppEigen.h>
 #include <pcl/point_types.h>
+#include <pcl/common/projection_matrix.h>
 
 pcl::PointCloud<pcl::PointXYZ>  pclRead(SEXP vb);
 Rcpp::List RpclToR(pcl::PointCloud<pcl::PointXYZ> cloud);
+
+#endif
