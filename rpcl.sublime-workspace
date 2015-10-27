@@ -1,0 +1,1828 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PCL",
+				"pcl"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"end",
+				"end{center}	Liver_ultrasound_tracking.tex"
+			],
+			[
+				"caption",
+				"caption{title}	latex-document"
+			],
+			[
+				"maket",
+				"maketitle	latex-document"
+			],
+			[
+				"cente",
+				"centering	tex"
+			],
+			[
+				"catpion",
+				"caption{title}	latex-document"
+			],
+			[
+				"hy",
+				"hyperlink{name}{text}	hyperref"
+			],
+			[
+				"itemize",
+				"begin{itemize}\\item	latex-document"
+			],
+			[
+				"blin",
+				"blinddocument	blindtext"
+			],
+			[
+				"beg",
+				"begin{abstract}	latex-document"
+			],
+			[
+				"uspe",
+				"usepackage{package}	latex-document"
+			],
+			[
+				"begin",
+				"begin{align*}	amsmath"
+			],
+			[
+				"par",
+				"paragraph*{title}	latex-document"
+			],
+			[
+				"usepa",
+				"usepackage{package}	latex-document"
+			],
+			[
+				"sub",
+				"subsubsection*{title}	latex-document"
+			],
+			[
+				"subsub",
+				"subsubsection{title}	latex-document"
+			],
+			[
+				"subs",
+				"subsection{title}	latex-document"
+			],
+			[
+				"section",
+				"section{title}	latex-document"
+			],
+			[
+				"sectio",
+				"section{title}	latex-document"
+			],
+			[
+				"sto",
+				"store_points_window"
+			],
+			[
+				"movin",
+				"movingReg"
+			],
+			[
+				"anno",
+				"annotations_ref"
+			],
+			[
+				"annotat",
+				"annotations_ref"
+			],
+			[
+				"annotations_",
+				"annotations_3D"
+			],
+			[
+				"as",
+				"asmatrix"
+			],
+			[
+				"num",
+				"numpy"
+			],
+			[
+				"metric",
+				"metric_values"
+			],
+			[
+				"start",
+				"start_plot"
+			],
+			[
+				"Get",
+				"GetMetricValue"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"mask",
+				"mask_ref"
+			],
+			[
+				"ann",
+				"annotations"
+			],
+			[
+				"See",
+				"Seed_points"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"ax",
+				"ax2"
+			],
+			[
+				"out",
+				"outTx"
+			],
+			[
+				"sim",
+				"simg2"
+			],
+			[
+				"sigm",
+				"simg1"
+			],
+			[
+				"ia",
+				"images"
+			],
+			[
+				"meshgrid",
+				"meshgrid	meshgrid(xgv,ygv,zgv)"
+			],
+			[
+				"uint",
+				"uint8	uint8(A)"
+			],
+			[
+				"ui",
+				"uint8	uint8(A)"
+			],
+			[
+				"feature",
+				"feature_points"
+			],
+			[
+				"the",
+				"thresh"
+			],
+			[
+				"cenr",
+				"centroids"
+			],
+			[
+				"cne",
+				"Centroid"
+			],
+			[
+				"kn",
+				"knnsearch	knnsearch(X,Y)"
+			],
+			[
+				"pixell",
+				"pixellist"
+			],
+			[
+				"dlm",
+				"dlmread	dlmread(filename, delimiter, range)"
+			],
+			[
+				"dis",
+				"displacements"
+			],
+			[
+				"displacement",
+				"displacements"
+			],
+			[
+				"imagefile",
+				"imagefiles_path"
+			],
+			[
+				"dislacemen",
+				"displacement"
+			],
+			[
+				"Ra",
+				"Rayon"
+			],
+			[
+				"A",
+				"Angle"
+			],
+			[
+				"close",
+				"close	close(aviobj)"
+			],
+			[
+				"clos",
+				"close	close(h)"
+			],
+			[
+				"Fold",
+				"Folder_areas_ref"
+			],
+			[
+				"Lis",
+				"List_scp_points"
+			],
+			[
+				"Ncom",
+				"Advised_ncomp"
+			],
+			[
+				"exis",
+				"exist	exist name"
+			],
+			[
+				"Coor",
+				"Coords_right_side"
+			],
+			[
+				"Coo",
+				"Coords_left_side"
+			],
+			[
+				"Trans",
+				"Trans_matrix"
+			],
+			[
+				"Pog",
+				"Pog_y"
+			],
+			[
+				"Inter",
+				"Inter_left"
+			],
+			[
+				"list_params",
+				"liste_params_inferes"
+			],
+			[
+				"inp",
+				"input	input(prompt,'s')"
+			],
+			[
+				"find",
+				"find	find(X)"
+			],
+			[
+				"all",
+				"all_points"
+			],
+			[
+				"Id",
+				"Idx_label"
+			],
+			[
+				"Table",
+				"Table_points_final"
+			],
+			[
+				"List",
+				"List_name_points"
+			],
+			[
+				"functio",
+				"function"
+			],
+			[
+				"Elli",
+				"ellipsoid"
+			],
+			[
+				"reduce",
+				"reducepatch	reducepatch(fv)"
+			],
+			[
+				"NUm",
+				"Number_polyz"
+			],
+			[
+				"Di",
+				"Dirs3D"
+			],
+			[
+				"Number",
+				"Number_polyz"
+			],
+			[
+				"Pol",
+				"Poly2testz"
+			],
+			[
+				"spa",
+				"sparse	sparse(m,n)"
+			],
+			[
+				"Po",
+				"Poly2testy"
+			],
+			[
+				"Poly",
+				"Poly2test"
+			],
+			[
+				"Ds",
+				"D_source_scr"
+			],
+			[
+				"Nu",
+				"Number_z"
+			],
+			[
+				"resha",
+				"reshape	reshape(A,M,N)"
+			],
+			[
+				"Coords_vault_",
+				"Coords_vault_x"
+			],
+			[
+				"Skull_m",
+				"Skull_manu"
+			],
+			[
+				"erro",
+				"error	error"
+			],
+			[
+				"tm",
+				"tmax"
+			],
+			[
+				"clea",
+				"clear	clear('name1','name2','name3',...)"
+			],
+			[
+				"Num",
+				"Number_child"
+			],
+			[
+				"err",
+				"error	error"
+			],
+			[
+				"ind",
+				"ind2sub	ind2sub(siz,IND)"
+			],
+			[
+				"All",
+				"All_child_bins"
+			],
+			[
+				"ones",
+				"ones	ones(m,n)"
+			],
+			[
+				"one",
+				"ones	ones(n)"
+			],
+			[
+				"Cros",
+				"Crossing_rays"
+			],
+			[
+				"O",
+				"OT"
+			],
+			[
+				"Bi",
+				"BinParents"
+			],
+			[
+				"Cro",
+				"Crossing_rays"
+			],
+			[
+				"unit",
+				"uint32	uint32(A)"
+			],
+			[
+				"uin",
+				"uint32	uint32(A)"
+			],
+			[
+				"rayb",
+				"rayboxvect"
+			],
+			[
+				"norm",
+				"norm	norm(X)"
+			],
+			[
+				"Or",
+				"Origs"
+			],
+			[
+				"to",
+				"toc	toc"
+			],
+			[
+				"MAt",
+				"Mat_reltree"
+			],
+			[
+				"Ma",
+				"Mat_reltree"
+			],
+			[
+				"B",
+				"BinCount"
+			],
+			[
+				"Bin",
+				"BinCount"
+			],
+			[
+				"Bins",
+				"Bins_crossed"
+			],
+			[
+				"paus",
+				"pause	pause(n)"
+			],
+			[
+				"LIs",
+				"List_name_points"
+			],
+			[
+				"text",
+				"text	text(x,y,'string')"
+			],
+			[
+				"new",
+				"new_leg"
+			],
+			[
+				"legen",
+				"legend	legend(h,M)"
+			],
+			[
+				"LI",
+				"List_coord_manu"
+			],
+			[
+				"Ldks",
+				"Ldks_proj"
+			],
+			[
+				"setdiff",
+				"setdiff	setdiff(A,B)"
+			],
+			[
+				"interse",
+				"intersect	intersect(A,B)"
+			],
+			[
+				"LIst",
+				"List_combi"
+			],
+			[
+				"strca",
+				"strcat	strcat(s1, s2, ..., sN)"
+			],
+			[
+				"sum",
+				"sum	sum(ts)"
+			],
+			[
+				"inters",
+				"intersect	intersect(A,B)"
+			],
+			[
+				"mysa",
+				"mysample2"
+			],
+			[
+				"nam",
+				"name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "inst/include/pclIO.h",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/celli/RvtkStatismo/configure",
+			"settings":
+			{
+				"buffer_size": 644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 1368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "configure",
+			"settings":
+			{
+				"buffer_size": 652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "R/pclExport.r",
+			"settings":
+			{
+				"buffer_size": 133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DESCRIPTION",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXing/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				"Clean up Files"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"in",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"cite",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"citer",
+				"Citer: Insert Title"
+			],
+			[
+				"citeBib",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"lasy",
+				"LaTeXing: Insert TeX Symbol"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lsym",
+				"LaTeXing: Insert TeX Symbol"
+			],
+			[
+				"latexing",
+				"LaTeXing: Clean Temporary Output Dictionary"
+			],
+			[
+				"latex",
+				"LaTeXing: Insert TeX Symbol"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"ind	",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"INDE",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"IN	",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"desa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"R",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/celli/Data/Rpcl",
+		"/media/celli/Data/Rpcl/R",
+		"/media/celli/Data/Rpcl/inst",
+		"/media/celli/Data/Rpcl/inst/include",
+		"/media/celli/Data/Rpcl/src",
+		"/home/celli/RvtkStatismo",
+		"/home/celli/RvtkStatismo/inst",
+		"/home/celli/RvtkStatismo/inst/include",
+		"/home/celli/RvtkStatismo/src"
+	],
+	"file_history":
+	[
+		"/home/celli/RvtkStatismo/src/CMakeLists.txt",
+		"/media/celli/Data/Rpcl/src/PCLlib/CMakeLists.txt",
+		"/media/celli/Data/Rpcl/src/PCLlib/Rexport.cpp",
+		"/media/celli/Data/Rpcl/src/PCLlib/pclIO.cpp",
+		"/home/celli/Documents/ultra/demons/demons/demons2d/demons.m",
+		"/home/celli/Documents/ultra/blood_vessel_tracking_3.m",
+		"/home/celli/Documents/ultra/blood_vessel_tracking_2.m",
+		"/home/celli/Documents/ultra/blood_vessel_tracking.py",
+		"/home/celli/Documents/ultra/Readme.txt",
+		"/home/celli/Documents/ultra/blood_vessel_tracking.m",
+		"/home/celli/Documents/ultra/blood_vessel_tracking_acc.py",
+		"/home/celli/Documents/ultra/blood_vessel_tracking_2.py",
+		"/home/celli/.config/sublime-text-3/Packages/CiteBibtex/CiteBibtex.sublime-settings",
+		"/home/celli/Documents/ultra/report.tex/bibli.bib",
+		"/home/celli/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/celli/.config/sublime-text-3/Packages/User/LateX_write18.sublime-build",
+		"/home/celli/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/celli/Documents/ultra/petit_fute/chapterthumb.sty",
+		"/home/celli/Documents/ultra/petit_fute/test.tex",
+		"/home/celli/Téléchargements/getmap-example (1).tex",
+		"/home/celli/Téléchargements/getmap-example.tex",
+		"/home/celli/Documents/ultra/report_bis/Liver_ultrasound_tracking.tex",
+		"/home/celli/Documents/ultra/track_wth_training.m",
+		"/home/celli/.config/sublime-text-3/Packages/User/CiteBibtex.sublime-settings",
+		"/home/celli/Documents/ultra/petit_fute/guide.tex",
+		"/home/celli/Documents/ultra/blood_vessel_tracking_GUI.py",
+		"/home/celli/Téléchargements/Liver_ultrasound_tracking.tex",
+		"/home/celli/Documents/ultra/report.tex/Liver_ultrasound_tracking.tex",
+		"/home/celli/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/celli/Téléchargements/thumbs-example.tex",
+		"/home/celli/Documents/ultra/petit_fute/test2.tex",
+		"/home/celli/Documents/ultra/petit_fute/test3.tex",
+		"/home/celli/Téléchargements/gradient_descent.tex",
+		"/home/celli/Téléchargements/lecture4.tex",
+		"/home/celli/Téléchargements/gradient_descent (1).tex",
+		"/home/celli/Documents/ultra/GUI/helloPython/code/TrackingGui.py",
+		"/home/celli/Documents/ultra/snake.m",
+		"/home/celli/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/celli/.config/sublime-text-3/Packages/CiteBibtex/Default.sublime-keymap",
+		"/home/celli/Téléchargements/opensans-samples.tex",
+		"/home/celli/Documents/ultra/Annotate.py",
+		"/home/celli/Documents/ultra/blood_vessel_tracking_4.m",
+		"/home/celli/Documents/ultra/blood_vessel_tracking_3.py",
+		"/home/celli/Documents/ultra/demonsbis.m",
+		"/home/celli/Documents/ANTS/ANTS/Scripts/antsRegistrationSyNQuick.sh",
+		"/home/celli/.config/sublime-text-3/Packages/User/Citer.sublime-settings",
+		"/home/celli/.cache/.fr-a6ZXOp/document/cpistuff/cpi.sty",
+		"/home/celli/Documents/ultra/test.txt",
+		"/home/celli/Documents/ultra/time_corr.m",
+		"/home/celli/Documents/ultra/GUI/TrackingGui.py",
+		"/home/celli/Documents/ultra/GUI/blood_vessel_tracking_GUI.py",
+		"/home/celli/Téléchargements/Slicer-4.4.0-linux-amd64/lib/Slicer-4.4/qt-scripted-modules/SurfaceToolbox.py",
+		"/home/celli/Téléchargements/Slicer-4.4.0-linux-amd64/lib/Slicer-4.4/qt-scripted-modules/SurfaceToolbox.pyc",
+		"/home/celli/Téléchargements/Slicer-4.4.0-linux-amd64/bin/Python/vtkITK.py",
+		"/home/celli/Documents/ultra/demons.m",
+		"/home/celli/Documents/ultra/images ultra/CLUST2015/CIL-04/Data/0016.png",
+		"/home/celli/Documents/time_corr.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/main_assess.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/Helper.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/FitSet.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/raytracer/TriangleRayIntersection.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Tools_reconstruction/pickpoint.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Tools_reconstruction/apply_invtrans.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Tools_reconstruction/apply_trans.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Tools_reconstruction/matlabX.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/MeshTools.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/main_output.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/ErrorSet.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/GetData.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/TreatAreas.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Assess.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/rayboxvect.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/GenerateDRR.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/AntsPic.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/SCP/calcule_contrainte_eos.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/visualize_points_proj.m",
+		"/media/celli/Data/EOS skull/R scripts/ants/test_img_reg.r",
+		"/media/celli/Data/EOS skull/R scripts/morph_ants.R",
+		"/media/celli/Data/EOS skull/matlab/toolbox/Maths/Rms.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/fig3D2PDF/fig2idtf/fig2idtf.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/DRRgenerated.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/rayBoxGPU.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Tools_reconstruction/build_extra_points.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Tools_reconstruction/read_xml_ldks.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Tools_reconstruction/find_transfo_reconstruct.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/bvh/aabbdemo.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/OcTree.m",
+		"/media/celli/Data/EOS skull/matlab/rayboxvect_mex.mexa64",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/SCP/reconstruit_scp_eos.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/PartMesh.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/stl2wrl.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox/Fichiers/ecrire_fichier_wrml.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/pre_morph.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/find_transfo_frame.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/bland_altman/exemple.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/stl2vtk.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/octMesh.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/wrl2vtk.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/post_morph.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/plot_ply.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/parabolebis.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox/Geometrie/intersection_de_droites.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/align_skulls.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/raytracer/TriangleRayIntersection_tutorial.m",
+		"/media/celli/Data/EOS skull/R scripts/ants/volume_reg.r",
+		"/media/celli/Data/EOS skull/R scripts/skullants.r",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/SCP/calcule_retroprojection_eos.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/PartMesh2.m",
+		"/media/celli/Data/EOS skull/data/reference_models/scaled/mean_shape_2.xml",
+		"/media/celli/Data/EOS skull/data/reference_models/scaled/mean_shape.xml",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/lsge/lscone.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/lsge/fgcylinder.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/points2xml.m",
+		"/media/celli/Data/EOS skull/R scripts/matchGP.mha",
+		"/media/celli/Data/EOS skull/matlab/toolbox/Geometrie/sphere_moindres_carres.m",
+		"/media/celli/Data/EOS skull/data/assess/manual_ldks/Average/EOS005 EOS005_crane_001_auto.xml",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/Quadfit/parabolafit_cals.m",
+		"/media/celli/Data/EOS skull/data/assess/manual_ldks/Average/EOS005 EOS005_crane_001._auto.xml",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/xml2csvpoints.m",
+		"/media/celli/Data/EOS skull/matlab/nouveaux scripts/parabole.m",
+		"/media/celli/Data/EOS skull/data/reference_models/scaled/composite_300.csv",
+		"/media/celli/Data/EOS skull/matlab/toolbox perso/SCP/calcule_retroprojection_image.m",
+		"/media/celli/Data/EOS skull/matlab/toolbox/Geometrie/projection_point_droite.m",
+		"/media/celli/Data/EOS skull/data/reference_models/scaled/composite_300.xml",
+		"/media/celli/My Book/francois/EOS skull/matlab/nouveaux scripts/post_morph.m",
+		"/media/celli/Data/EOS skull/R scripts/morph.R",
+		"/media/celli/Data/EOS skull/results/distance_map.csv",
+		"/media/celli/My Book/francois/EOS skull/data/reference_models/scaled/composite_300.csv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/media/celli/Data/Rpcl",
+			"/home/celli/RvtkStatismo",
+			"/media/celli/Data/EOS skull/matlab/",
+			"/media/celli/Data/EOS skull",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cholmod",
+			"/cholmod.h",
+			"cholmod",
+			"eigen",
+			"libus",
+			"RvtkStatismo",
+			"PointCloud",
+			"d",
+			"	\n",
+			"textwidth",
+			"gradient",
+			"pyramidal",
+			"epachenikov",
+			"epache",
+			"tab_synt",
+			"contours process",
+			"Optimizer",
+			"Insight",
+			"Libraries",
+			"subparagraph",
+			"active",
+			"Global",
+			"subsubsection*{",
+			"ubsubsection*",
+			"Image registration",
+			"active",
+			"image seg",
+			"paragraph",
+			"subparagraph",
+			"ref",
+			"hyperref",
+			"sub:kernel",
+			"fig:mean_sh",
+			"hyperref",
+			"sub:kernel",
+			"paragraph",
+			"features",
+			"dark-gray",
+			"figure",
+			"resampling",
+			"resampl",
+			"pyramidal",
+			"caption",
+			"table",
+			"lll",
+			"tabular",
+			"thus",
+			"label",
+			"watershed",
+			"Watershed",
+			"watershed",
+			"Watershed",
+			"watershed",
+			"weak",
+			"title",
+			"citep",
+			"	",
+			"figure",
+			"data",
+			"\"shell_cmd\": \"make\"",
+			"documentblin",
+			"lo",
+			"LO",
+			"4cm",
+			"part",
+			"myfamily",
+			"watershed",
+			"Helv",
+			"helv",
+			"title",
+			"band",
+			"part",
+			"PART",
+			"part",
+			"      ",
+			"13cm",
+			"optimizer",
+			"pro1",
+			"width",
+			"x",
+			"boldsymb",
+			"transformation",
+			"Transformation",
+			", t",
+			"!ht",
+			"\\nu(s)",
+			"\\nu_{sss}",
+			"\\nu_{ss}",
+			"\\nu_s",
+			"\\nu",
+			"figure",
+			"[!h",
+			"\\end{equation*}",
+			"\\begin{equation*}",
+			"{equation*}",
+			"\\end{align*}",
+			"»",
+			"«",
+			" ",
+			"\\u8:�",
+			"u'\\x95'",
+			" ",
+			"\\end{align*}",
+			"\\end{equation*}",
+			"\\sum_i",
+			"*",
+			"itemize",
+			"paragraph",
+			"kerne",
+			"urldate",
+			"url",
+			"urldate",
+			"url",
+			"kernel",
+			"subsection",
+			"section",
+			"nobreak",
+			"makeschapterhead",
+			"makechapterhead",
+			"maketitle",
+			"120",
+			"store_points",
+			"[];\n",
+			"pt,:",
+			"Seed_pt",
+			"metric",
+			"images[int(i)]",
+			"width_window"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "inst/include/pclIO.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/celli/RvtkStatismo/configure",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								959,
+								959
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/CMake/CMake.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "configure",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							],
+							[
+								222,
+								222
+							],
+							[
+								299,
+								299
+							],
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "R/pclExport.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"r_box_status": false,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "DESCRIPTION",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 199.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "rpcl.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/celli/Data/alien/alien.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"res",
+				"residuals_sphere"
+			],
+			[
+				"main",
+				"main_treatareas"
+			],
+			[
+				"resi",
+				"residuals_sphere"
+			],
+			[
+				"getd",
+				"GetData"
+			],
+			[
+				"Rms",
+				"rms"
+			],
+			[
+				"treat",
+				"TreatAreas"
+			],
+			[
+				"mesh",
+				"MeshTools"
+			]
+		],
+		"width": 746.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

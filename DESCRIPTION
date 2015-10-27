@@ -1,0 +1,19 @@
+Package: Rpcl
+Type: Package
+Title: Integrates pcl and R
+Version: 1.7.2
+Date: 2015-10-26
+Author: François Girinon
+Maintainer: François Girinon <francois.girinon@gadz.org>
+Description: Integrates pcl and R.
+License: GPL (>=2)
+Imports:
+    Rcpp (>= 0.11.1),
+    methods
+Suggests:
+    rgl,
+    testthat
+LinkingTo: Rcpp, RcppEigen
+SystemRequirement: pcl (>= 1.6), cmake
+URL: http://github.com/zarquon42b/RvtkStatismo, URL:
+    http://github.com/statismo/statismo

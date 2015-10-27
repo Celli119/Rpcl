@@ -1,0 +1,26 @@
+#! /bin/sh
+# obtain and export Rs environment variables
+export R_HOME
+CXX=$(R CMD config CXX)
+CXXFLAGS="$(R CMD config CXXFLAGS)"
+CPPFLAGS=$(R CMD config CPPFLAGS)
+# BLAS_LIBS=$(R CMD config BLAS_LIBS)
+# LAPACK_LIBS=$(R CMD config LAPACK_LIBS)
+export CXX
+export CXXFLAGS
+export CPPFLAGS
+# export BLAS_LIBS
+# export LAPACK_LIBS
+export R_INCLUDE_DIR
+
+RCPP_DIR=$(Rscript -e "cat(system.file(package='Rcpp'))")
+RCPPEIGEN_DIR=$(Rscript -e "cat(system.file(package='RcppEigen'))")
+BH_DIR=$(Rscript -e "cat(system.file(package='BH'))")
+export RCPP_DIR
+export RCPPEIGEN_DIR
+export BH_DIR
+cd src
+
+#cmake .
+cmake . $@
+#make -j$(grep -c ^processor /proc/cpuinfo)
