@@ -1,13 +1,21 @@
-#include "pclIO.h"
-#include <Rcpp.h>
+#include "Rexport.h"
 
 
-using namespace Rcpp;
+// using namespace Rcpp;
 
-using Rcpp::List;
+// using Rcpp::List;
 
 Rcpp::List  Rexport(SEXP vb_, SEXP normals_ = Rcpp::wrap(0))
 {
-	cloud = pclRead(SEXP vb_, SEXP normals_);
-	RpclToR(cloud)
+	try{
+		PclIO cloud;
+		cloud.pclRead(vb_, normals_);
+		return PclIO::RpclToR(cloud.getCloud());
+	}
+	catch (std::exception& e) {
+		::Rf_error( e.what());
+	}
+	catch (...) {
+		::Rf_error("unknown exception");
+	}
 }

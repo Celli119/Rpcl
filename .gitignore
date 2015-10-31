@@ -3,3 +3,6 @@ src/CMakeCache*
 src/cmake*
 *.so
 *Makefile
+*sublime-project
+*sublime-workspace
+*~
