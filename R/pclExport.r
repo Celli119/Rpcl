@@ -1,6 +1,5 @@
 #' Test read & export
 #'
-#' calculate common allometric component
 #'
 #' @param mesh mesh to read
 #'
@@ -11,6 +10,6 @@
 pclExport <- function(mesh)
 	{
 		vb <- mesh$vb[1:3,,drop=FALSE]
-		tmp <- .Call("Rexport",vb, PACKAGE="Rpcl")
+		tmp <- .Call("Rexport",vb)
 		return(tmp)
 	}
