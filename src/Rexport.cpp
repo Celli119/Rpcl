@@ -5,7 +5,7 @@
 
 // using Rcpp::List;
 
-Rcpp::List  Rexport(SEXP vb_, SEXP normals_ = Rcpp::wrap(0))
+RcppExport SEXP Rexport(SEXP vb_, SEXP normals_ = Rcpp::wrap(0))
 {
 	try{
 		PclIO cloud;

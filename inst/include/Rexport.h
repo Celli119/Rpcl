@@ -4,6 +4,6 @@
 #include "PclIO.h"
 #include <Rcpp.h>
 
-Rcpp::List  Rexport(SEXP vb_, SEXP normals_);
+RcppExport SEXP Rexport(SEXP vb_, SEXP normals_);
 
 #endif

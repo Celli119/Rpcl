@@ -5,8 +5,8 @@ using Rcpp::List;
 
 PclIO::PclIO()
 {
-	pcl::PointCloud<pcl::PointXYZ>::Ptr m_cloud (new pcl::PointCloud<pcl::PointXYZ>);
-	pcl::PointCloud<pcl::Normal>::Ptr m_normals (new pcl::PointCloud<pcl::Normal>);
+	m_cloud = pcl::PointCloud<pcl::PointXYZ>::Ptr (new pcl::PointCloud<pcl::PointXYZ>);
+	m_normals = pcl::PointCloud<pcl::Normal>::Ptr (new pcl::PointCloud<pcl::Normal>);
 }
 
 int PclIO::pclRead(SEXP vb_, SEXP normals_ = Rcpp::wrap(0))
@@ -69,13 +69,19 @@ pcl::PointCloud<pcl::Normal>::Ptr PclIO::getNormals() const {
 }
 
 Rcpp::List PclIO::RpclToR(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud) {
-	List out;
-	Rcpp::NumericMatrix vb(4);
-	for (size_t i = 0; i < cloud->points.size (); ++i){
-		vb(0,i) = cloud->points[i].x;
-		vb(1,i) = cloud->points[i].y;
-		vb(2,i) = cloud->points[i].z;
-		}
-	out["vb"] = vb;
-	return out;
+	try{
+		Rcpp::List out;
+		Rcpp::NumericMatrix vb(4);
+		for (size_t i = 0; i < cloud->points.size (); ++i){
+			vb(0,i) = cloud->points[i].x;
+			vb(1,i) = cloud->points[i].y;
+			vb(2,i) = cloud->points[i].z;
+			}
+		out["vb"] = vb;
+		out.attr("class") = "mesh3d";
+		return out;
+	}
+	catch(...) {
+    ::Rf_error("PointCloud to R-Data conversion failed");
+	}
 }
