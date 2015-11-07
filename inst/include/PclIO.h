@@ -16,7 +16,7 @@ class PclIO
 	pcl::PointCloud<pcl::PointXYZ>::Ptr getCloud() const;
 	pcl::PointCloud<pcl::Normal>::Ptr getNormals() const;
 
-	static Rcpp::List RpclToR(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud);
+	static Rcpp::List RpclToR(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud, pcl::PointCloud<pcl::Normal>::Ptr normals);
 
 	private:
 	pcl::PointCloud<pcl::PointXYZ>::Ptr m_cloud;
