@@ -10,6 +10,8 @@
 pclExport <- function(mesh)
 	{
 		vb <- mesh$vb[1:3,,drop=FALSE]
-		tmp <- .Call("Rexport",vb)
+		normals <- mesh$normals[1:3,,drop=FALSE]
+		tmp <- .Call("Rexport", vb, normals)
+		tmp$it <- mesh$it
 		return(tmp)
 	}
