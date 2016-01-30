@@ -13,6 +13,6 @@ pclExport(mesh)
 \item{vb}{original vertices of the mesh }
 }
 \description{
-calculate common allometric component
+Test read & export
 }
 
