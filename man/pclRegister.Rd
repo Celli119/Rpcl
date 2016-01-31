@@ -6,7 +6,8 @@
 \usage{
 pclRegister(meshRef, meshTar, radiusSearch = 100, imageWidth = 8,
   maxIt = 500, numberOfSample = 3, correspondenceRandomness = 5,
-  similarityThreshold = 0.9, inlierFraction = 0.25)
+  similarityThreshold = 0.9, inlierFraction = 0.25,
+  recomputeNormals = FALSE)
 }
 \arguments{
 \item{meshRef}{triangular mesh of class "mesh3d": a reference mesh.}
@@ -26,6 +27,8 @@ pclRegister(meshRef, meshTar, radiusSearch = 100, imageWidth = 8,
 \item{similarityThreshold}{numeric: polygonal edge length similarity threshold.}
 
 \item{inlierFraction}{numeric: required inlier fraction for accepting a pose hypothesis.}
+
+\item{recomputeNormals}{boolean: if TRUE pcl recompute normals through a kdtree search.}
 }
 \value{
 the registered reference mesh

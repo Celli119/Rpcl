@@ -31,6 +31,6 @@ typedef pcl::PointCloud<FeatureT> FeatureCloudT;
 typedef pcl::Histogram<153> SpinImage;
 // typedef pcl::visualization::PointCloudColorHandlerCustom<PointNT> ColorHandlerT;
 
-pcl::PointCloud<SpinImage>::Ptr RspinImage(PclIO &cloud, float &radiusSearch, unsigned int &imageWidth);
-RcppExport SEXP Rpclregister(SEXP vbRef_, SEXP vbTar_, SEXP normalsRef_ , SEXP normalsTar_ , SEXP radiusSearch, SEXP imageWidth, SEXP maxIt, SEXP numberOfSample, SEXP correspondenceRandomness, SEXP similarityThreshold, SEXP inlierFraction);
+pcl::PointCloud<SpinImage>::Ptr RspinImage(PclIO &cloud, float &radiusSearch, unsigned int &imageWidth, bool recomputeNormals);
+RcppExport SEXP Rpclregister(SEXP vbRef_, SEXP vbTar_, SEXP normalsRef_ , SEXP normalsTar_ , SEXP radiusSearch, SEXP imageWidth, SEXP maxIt, SEXP numberOfSample, SEXP correspondenceRandomness, SEXP similarityThreshold, SEXP inlierFraction, SEXP recomputeNormals);
 #endif
